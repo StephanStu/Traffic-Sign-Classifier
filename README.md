@@ -1,6 +1,8 @@
 # Udacity's Self-Driving Car Engineer Nanodegree: Traffic Sign Recognition Project
 This is Stephan Studener's solution to the traffic sign recognition project in Udacity's Self-Driving Car Engineer Nanodegree in December 2019. The project was completely implemented as a Python3 Jupyter-Notebook [`project.jpynb`](project.ipynb). In this project, the goal is to implement and train a convolutional neural network that classifys traffic signs on images. The neural network is trained, validated and tested with images provided by Udacity. As a final challenge, the neural network must be applied to classify images of the the German Traffic Sign Recognition Benchmark. 
 
+*Note: After downloading, you need to un-zip the zip-files in the data-folder. These contain compressed training- / validation- / test-data.*
+
 ## 1. Data Set Summary & Exploration
 First, the data set is explored.
 #### 1.1. Summary of the data set
